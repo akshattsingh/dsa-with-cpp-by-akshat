@@ -1,6 +1,6 @@
 # Strings in C++
 
-This folder covers important string concepts and interview problems.
+This folder covers important string concepts and interview problems implemented in C++.
 
 ## Topics Covered
 - String declaration & input/output
@@ -10,5 +10,6 @@ This folder covers important string concepts and interview problems.
 - Removing duplicates
 - Vowels & consonants counting
 - Longest word in a sentence
+- Substrings & subsequences
 
 String problems are commonly asked in coding interviews.
