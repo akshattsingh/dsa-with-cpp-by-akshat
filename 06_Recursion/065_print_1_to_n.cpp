@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+void print(int n) {
+    if (n == 0)
+        return;
+
+    print(n - 1);
+    cout << n << " ";
+}
+
+int main() {
+    int n;
+    cout << "Enter n: ";
+    cin >> n;
+    cout << "1 to " << n << ": "; 
+    print(n);
+    
+    return 0;
+}
