@@ -13,6 +13,7 @@ int main() {
     int n;
     cout << "Enter n: ";
     cin >> n;
+    
     cout << "1 to " << n << ": "; 
     print(n);
     
